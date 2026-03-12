@@ -16,9 +16,9 @@ Linux authentication logs
 
 ## How to run
 Examples
-python log_analyzer.py /var/log/auth.log
+`python log_analyzer.py /var/log/auth.log`
 
-python3 log_analyzer.py sample_auth.log
+`python3 log_analyzer.py sample_auth.log`
 
 ## Output Example
 Failed Login Attempts by IP
